@@ -47,3 +47,7 @@
     -   ![](img/2021-03-21-19-36-06.png)
         -   `A` never `B`.
         -   `B` never `A`.
+
+## References
+
+-   <https://www.khanacademy.org/test-prep/lsat/lsat-lessons/logic-toolbox-new/a/logic-toolbox--article--conditional-reasoning-logical-equivalence>
