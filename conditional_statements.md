@@ -9,7 +9,7 @@
     -   the space of the venn is sample space.
     -   events in the same diagram (sample space) are mutually dependent.
     -   events in different diagrams (sample spaces) are mutually independent.
-    -   each diagram (sample space) can be tried as a layer.
+    -   each diagram (sample space) can be treated as a layer.
         -   each layer can be placed on top of other layers.
             -   when a needle point through all layers, those dots (events) are happened and mutually independent.
 -   cases
