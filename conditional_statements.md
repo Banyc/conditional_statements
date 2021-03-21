@@ -3,7 +3,7 @@
 ## Venn
 
 -   restrictions
-    -   those diagrams only care about `A` and `B`, no `C` or anything else.
+    -   those diagrams only care about `A` and `B` and `A - B` and `B - A`, no `C` or anything else.
 -   venn attributes
     -   each dot in venn graph is an event.
     -   the space of the venn is sample space.
@@ -26,8 +26,9 @@
                 -   there are some space that `B` cannot explain `A`.
         -   `B`, only if `A`.
             -   `B`, 除非 `A`.
-            -   one only `B` if `A`.
+            -   one only `B` if `A`. (Not so sure)
                 -   if not `A`, not `B`.
+                -   "only" indicates `A`?
             -   `B`, only when `A`.
             -   what is indicated by "only"/"must" is the necessary condition
         -   `A` sometimes/may `B`.
