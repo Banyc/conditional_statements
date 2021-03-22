@@ -22,8 +22,8 @@
             -   `B` can fall nowhere but in `A`.
         -   `B` is sufficient to `A`.
             -   if a dot (event) in `B`, the dot (event) is also in `A`.
-            -   why not `B` is not necessary?
-                -   there are some space that `B` cannot explain `A`.
+            -   why is `B` not necessary to `A`?
+                -   there are some space (`A - B`) that `B` cannot explain `A`.
         -   `B`, only if `A`.
             -   `B`, 除非 `A`.
             -   one only `B` if `A`. (Not so sure)
